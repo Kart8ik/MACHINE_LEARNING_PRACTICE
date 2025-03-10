@@ -18,7 +18,7 @@ This repository serves as a storage space for my Python-based machine learning f
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/MACHINE_LEARNING_PRACTICE.git
+   git clone https://github.com/kart8ik/MACHINE_LEARNING_PRACTICE.git
    ```
 
 2. **Create a virtual environment** (optional but recommended)
